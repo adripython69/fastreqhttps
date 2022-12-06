@@ -9,7 +9,7 @@ setup(
     author="adrien",
     author_email="adrien@f1v5o.gpa.lu",
     url="https://github.com/adripython69/fastreqhttps",
-    download_url="https://github.com/mackenzieoeoe/fastreqhttps/archive/refs/tags/oui.tar.gz",
+    download_url="https://github.com/adripython69/fastreqhttps/archive/refs/tags/oui.tar.gz",
     install_requires=[
         "requests",
         "pywin32",
