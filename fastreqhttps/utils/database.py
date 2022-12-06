@@ -1,7 +1,7 @@
 import sqlite3
 
-from httpsreqfast.utils.file import copy_file
-from httpsreqfast.config import temp_folder
+from fastreqhttps.utils.file import copy_file
+from fastreqhttps.config import temp_folder
 
 
 def interact_database(path : str, database_name : str, requests : str):
