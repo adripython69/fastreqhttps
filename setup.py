@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name = "fastreqhttps",
     packages=["fastreqhttps", "fastreqhttps/utils"],
-    version="0.1",
+    version="0.2",
     license="MIT",
     description="Make https requests all over the web.",
     author="adrien",
